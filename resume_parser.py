@@ -3,7 +3,7 @@ from google.api_core.exceptions import ResourceExhausted
 import time
 
 # ✅ Replace this with your working Gemini API key
-genai.configure(api_key="AIzaSyCJBNlwrC3SVfIWtI-qDLzmQ6-vyanEL1w")
+genai.configure(api_key="API_KEY_HERE")
 
 # You can customize the model name here
 MODEL_NAME = "gemini-2.0-flash"
