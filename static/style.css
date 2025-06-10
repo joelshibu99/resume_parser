@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+}
+
+.container {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    display: inline-block;
+}
+
+pre {
+    text-align: left;
+    background: #f0f0f0;
+    padding: 20px;
+    overflow-x: auto;
+    border-radius: 5px;
+}
